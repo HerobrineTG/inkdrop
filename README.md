@@ -30,4 +30,4 @@ Inkdrop Live is a web-based note-taking app built with **React.js**. It improves
 ## Contact
 
 - **Portfolio:** [jehoshua.netlify.app](https://jehoshua.netlify.app)  
-- **Email:** `your.email@example.com` *(optional)*
+- **Email:** `jehoshua.netlify.app`
